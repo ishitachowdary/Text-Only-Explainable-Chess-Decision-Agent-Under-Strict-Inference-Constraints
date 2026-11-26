@@ -2,14 +2,6 @@
 
 > A compact, CPU-friendly chess decision agent that takes a **text/FEN** board position, proposes a move with a neural model, **enforces legality with an independent rules library**, and returns a **short human-readable rationale** — with all components measured separately.
 
-**Koneru Lakshmaiah Education Foundation (Deemed to be University)**
-Department of Computer Science and Engineering · B.Tech Capstone · Cluster A – Software Systems Engineering
-Academic Year 2026–2027 · Submitted November 2026
-
-| Portal use-case ID | Team No. | Cluster |
-|---|---|---|
-| CINT-67 | C2R-18 | Cluster A – Software Systems Engineering |
-
 🌐 **Live frontend demo:** https://cpfe-lilac.vercel.app/
 
 ---
